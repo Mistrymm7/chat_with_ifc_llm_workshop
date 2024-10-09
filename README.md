@@ -7,6 +7,8 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+- [ ] Replace Openai with defog sqlcoder model
+
 * openai api keys setup : https://platform.openai.com/settings/profile?tab=api-keys
 
 * Architecture Diagram
