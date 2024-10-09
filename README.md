@@ -3,7 +3,7 @@
 * Code credits: Joao Silva : https://www.linkedin.com/in/joaomiguelarch/ 
 
 * Script Link: 
-<a target="_blank" href="https://colab.research.google.com/drive/1SEHUBLHA4lPSdvmWNq5U-mPjet3hiQjD?authuser=0#scrollTo=uNzHxf4OyG3V">
+<a target="_blank" href="https://colab.research.google.com/drive/1EiPVZAGJtdKUgnSyMS4Z7t-hF0zFftY4?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
